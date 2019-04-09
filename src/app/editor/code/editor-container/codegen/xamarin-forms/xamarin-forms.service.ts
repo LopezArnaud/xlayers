@@ -15,7 +15,7 @@ export class XamarinFormsCodeGenService implements CodeGenFacade {
 
   buttons() {
     return {
-      stackblitz: true
+      stackblitz: false
     };
   }
 
